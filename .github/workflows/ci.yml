@@ -1,27 +1,32 @@
-name: Java CI with Maven
+name: Java CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Lấy code từ repo
       - name: Checkout code
         uses: actions/checkout@v4
 
+      # 2. Debug cấu trúc thư mục (QUAN TRỌNG)
+      - name: Debug structure
+        run: ls -R
+
+      # 3. Cài Java 21
       - name: Set up JDK 21
         uses: actions/setup-java@v4
         with:
-          java-version: '21'
-          distribution: 'temurin'
+          java-version: "21"
+          distribution: "temurin"
 
-      - name: Build with Maven
+      # 4. Build Spring Boot (sửa path nếu cần)
+      - name: Build backend
         run: mvn clean install
-
-      - name: Run tests
-        run: mvn test
+        working-directory: backend
