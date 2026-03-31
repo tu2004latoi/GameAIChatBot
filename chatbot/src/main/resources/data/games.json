@@ -1,0 +1,800 @@
+[
+  {
+    "title": "Valorant",
+    "content": "Game FPS chiến thuật 5v5, kết hợp kỹ năng nhân vật và bắn súng chính xác",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Counter-Strike 2",
+    "content": "Game FPS kinh điển, đòi hỏi phản xạ nhanh và chiến thuật đội nhóm",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Overwatch 2",
+    "content": "FPS hero shooter với nhiều nhân vật có kỹ năng độc đáo",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Apex Legends",
+    "content": "Battle royale FPS với hệ thống nhân vật có kỹ năng riêng",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "PUBG",
+    "content": "Game battle royale FPS đầu tiên, 100 người chơi trên bản đồ lớn",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Call of Duty: Warzone",
+    "content": "Battle royale FPS đồ họa đẹp, vũ khí đa dạng, chế độ 150 người",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Battlefield 2042",
+    "content": "FPS chiến tranh quy mô lớn 128 người, bản đồ rộng, phương tiện chiến đấu",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Rainbow Six Siege",
+    "content": "FPS chiến thuật 5v5, phá tường, phối hợp đội nhóm chặt chẽ",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Team Fortress 2",
+    "content": "FPS multiplayer kinh điển, phong cách hoạt hình, miễn phí",
+    "genre": "FPS",
+    "difficulty": "Easy",
+    "platform": "PC"
+  },
+  {
+    "title": "Destiny 2",
+    "content": "FPS MMO với nhiều chế độ PvE và PvP, loot vũ khí đa dạng",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "DOOM Eternal",
+    "content": "FPS single-player tốc độ cao, tiêu diệt quỷ dữ hoành tráng",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Titanfall 2",
+    "content": "FPS với robot khổng lồ Titan, chiến dịch single-player xuất sắc",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Half-Life: Alyx",
+    "content": "FPS VR hay nhất mọi thời đại, cốt truyện hấp dẫn",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/VR"
+  },
+  {
+    "title": "Halo Infinite",
+    "content": "FPS sci-fi kinh điển, multiplayer miễn phí, chiến dịch Master Chief",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Left 4 Dead 2",
+    "content": "FPS co-op tiêu diệt zombie, 4 người chơi cùng nhau",
+    "genre": "FPS",
+    "difficulty": "Easy",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Far Cry 6",
+    "content": "FPS thế giới mở, nổi dậy chống lại chế độ độc tài",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Borderlands 3",
+    "content": "FPS looter shooter, hài hước, nhiều vũ khí độc đáo",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Quake Champions",
+    "content": "FPS arena kinh điển, tốc độ cao, nhảy rocket",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Unreal Tournament",
+    "content": "FPS arena huyền thoại, vũ khí đa dạng, map thi đấu",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Escape from Tarkov",
+    "content": "FPS hardcore sinh tồn, loot và thoát hiểm",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Insurgency: Sandstorm",
+    "content": "FPS chiến thuật thực tế, đòi hỏi phối hợp đội nhóm",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Squad",
+    "content": "FPS mô phỏng chiến tranh quân sự 50vs50",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Arma 3",
+    "content": "FPS mô phỏng quân sự chân thực nhất",
+    "genre": "FPS",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Payday 3",
+    "content": "FPS co-op cướp ngân hàng, kế hoạch và thực thi",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Deep Rock Galactic",
+    "content": "FPS co-op khai thác khoáng sản, dwarfs vs aliens",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Warframe",
+    "content": "FPS co-op sci-fi, ninja không gian, miễn phí",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Splitgate",
+    "content": "FPS kết hợp portal, miễn phí, độc đáo",
+    "genre": "FPS",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Rogue Company",
+    "content": "FPS hero shooter 4v4, miễn phí, cross-platform",
+    "genre": "FPS",
+    "difficulty": "Easy",
+    "platform": "PC/Console/Switch"
+  },
+  {
+    "title": "Paladins",
+    "content": "FPS hero shooter miễn phí, Overwatch-like",
+    "genre": "FPS",
+    "difficulty": "Easy",
+    "platform": "PC/Console/Switch"
+  },
+  {
+    "title": "Genshin Impact",
+    "content": "Game open-world khám phá, nhập vai với đồ họa anime đẹp mắt",
+    "genre": "RPG",
+    "difficulty": "Easy",
+    "platform": "PC/Mobile/Console"
+  },
+  {
+    "title": "Elden Ring",
+    "content": "Game souls-like open-world, độ khó cao, chiến đấu boss hoành tráng",
+    "genre": "RPG",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "The Witcher 3",
+    "content": "RPG cốt truyện hay, thế giới mở rộng lớn, nhiều nhiệm vụ phụ",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Skyrim",
+    "content": "RPG thế giới mở huyền thoại, mod vô tận",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Final Fantasy XIV",
+    "content": "MMORPG hay nhất mọi thời đại, cốt truyện xuất sắc",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "World of Warcraft",
+    "content": "MMORPG kinh điển, thế giới rộng lớn, nhiều người chơi nhất",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "content": "RPG thế giới mở sci-fi, cốt truyện branch, đồ họa đẹp",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "content": "RPG chiến thuật theo lượt, D&D 5e, cốt truyện xuất sắc",
+    "genre": "RPG",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Divinity: Original Sin 2",
+    "content": "RPG chiến thuật theo lượt, tự do cao, nhiều cách giải quyết",
+    "genre": "RPG",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Dark Souls 3",
+    "content": "Action RPG độ khó cao, combat chính xác, boss memorable",
+    "genre": "RPG",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Monster Hunter: World",
+    "content": "Action RPG săn quái vật, vũ khí đa dạng, co-op 4 người",
+    "genre": "RPG",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Hollow Knight",
+    "content": "Metroidvania 2D, độ khó cao, thế giới liên kết",
+    "genre": "RPG",
+    "difficulty": "Hard",
+    "platform": "PC/Console/Switch"
+  },
+  {
+    "title": "Stardew Valley",
+    "content": "RPG nông trại, thư giãn, xây dựng quan hệ, khai thác mỏ",
+    "genre": "RPG",
+    "difficulty": "Easy",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Persona 5 Royal",
+    "content": "JRPG phong cách, cốt truyện hay, turn-based combat",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console/Switch"
+  },
+  {
+    "title": "Dragon Age: Inquisition",
+    "content": "RPG thế giới mở, cốt truyện epic, quyết định có hậu quả",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Mass Effect Legendary Edition",
+    "content": "RPG sci-fi trilogy, cốt truyện hay, quyết định carry over",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Starfield",
+    "content": "RPG không gian thế giới mở, khám phá hành tinh",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Fallout 4",
+    "content": "RPG post-apocalyptic, xây dựng settlement, vũ khí đa dạng",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Diablo IV",
+    "content": "Action RPG hack and slash, loot vô tận",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Path of Exile 2",
+    "content": "Action RPG miễn phí, build phức tạp, endgame sâu",
+    "genre": "RPG",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Lost Ark",
+    "content": "Action RPG MMO, combat ARPG, nhiều nội dung",
+    "genre": "RPG",
+    "difficulty": "Medium",
+    "platform": "PC"
+  },
+  {
+    "title": "League of Legends",
+    "content": "Game MOBA 5v5 phổ biến nhất thế giới, đòi hỏi chiến thuật và phối hợp đội",
+    "genre": "MOBA",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Dota 2",
+    "content": "MOBA phức tạp, độ khó cao, cân bằng hoàn hảo",
+    "genre": "MOBA",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Smite",
+    "content": "MOBA góc nhìn thứ 3, các vị thần mythology",
+    "genre": "MOBA",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Heroes of the Storm",
+    "content": "MOBA đơn giản, hero từ các game Blizzard",
+    "genre": "MOBA",
+    "difficulty": "Easy",
+    "platform": "PC"
+  },
+  {
+    "title": "Pokemon Unite",
+    "content": "MOBA 5v5, Pokemon, chơi trên mobile và Switch",
+    "genre": "MOBA",
+    "difficulty": "Easy",
+    "platform": "Mobile/Switch"
+  },
+  {
+    "title": "Marvel Super War",
+    "content": "MOBA 5v5, tướng là các siêu anh hùng Marvel",
+    "genre": "MOBA",
+    "difficulty": "Medium",
+    "platform": "Mobile"
+  },
+  {
+    "title": "Arena of Valor",
+    "content": "MOBA mobile phổ biến, tướng đa dạng",
+    "genre": "MOBA",
+    "difficulty": "Medium",
+    "platform": "Mobile/Switch"
+  },
+  {
+    "title": "Mobile Legends: Bang Bang",
+    "content": "MOBA mobile phổ biến Đông Nam Á, 5v5",
+    "genre": "MOBA",
+    "difficulty": "Medium",
+    "platform": "Mobile"
+  },
+  {
+    "title": "FIFA 2024",
+    "content": "Game bóng đá mô phỏng chân thực với cầu thủ và đội bóng thật",
+    "genre": "Sports",
+    "difficulty": "Easy",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "NBA 2K24",
+    "content": "Game bóng rổ với đồ họa đẹp, chế độ MyCareer hấp dẫn",
+    "genre": "Sports",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "eFootball 2024",
+    "content": "Game bóng đá miễn phí, Konami, chơi cross-platform",
+    "genre": "Sports",
+    "difficulty": "Medium",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Forza Horizon 5",
+    "content": "Game đua xe thế giới mở, đồ họa tuyệt đẹp, nhiều loại xe",
+    "genre": "Racing",
+    "difficulty": "Easy",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Need for Speed Unbound",
+    "content": "Đua xe arcade phong cách, đồ họa độc đáo",
+    "genre": "Racing",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Gran Turismo 7",
+    "content": "Sim đua xe chân thực nhất trên PlayStation",
+    "genre": "Racing",
+    "difficulty": "Hard",
+    "platform": "PS"
+  },
+  {
+    "title": "Assetto Corsa Competizione",
+    "content": "Sim đua xe GT3 chuyên nghiệp, physics chân thực",
+    "genre": "Racing",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "iRacing",
+    "content": "Sim đua xe online chuyên nghiệp, subscription",
+    "genre": "Racing",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "F1 23",
+    "content": "Game đua xe Công thức 1, career mode, đội đua",
+    "genre": "Racing",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Grid Legends",
+    "content": "Đua xe arcade, story mode, đa dạng loại xe",
+    "genre": "Racing",
+    "difficulty": "Easy",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "The Crew Motorfest",
+    "content": "Đua xe thế giới mở Hawaii, nhiều loại xe",
+    "genre": "Racing",
+    "difficulty": "Easy",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Mario Kart 8 Deluxe",
+    "content": "Đua xe party game hay nhất, item chaos",
+    "genre": "Racing",
+    "difficulty": "Easy",
+    "platform": "Switch"
+  },
+  {
+    "title": "Tetris Effect",
+    "content": "Game giải đố xếp gạch với âm nhạc và hiệu ứng thị giác tuyệt đẹp",
+    "genre": "Puzzle",
+    "difficulty": "Easy",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Portal 2",
+    "content": "Game giải đố puzzle portal độc đáo, cốt truyện hài hước",
+    "genre": "Puzzle",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Candy Crush Saga",
+    "content": "Match-3 puzzle phổ biến nhất mobile",
+    "genre": "Puzzle",
+    "difficulty": "Easy",
+    "platform": "Mobile"
+  },
+  {
+    "title": "The Witness",
+    "content": "Giải đố line puzzle, đảo mở, 500+ puzzle",
+    "genre": "Puzzle",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Baba Is You",
+    "content": "Giải đố thay đổi luật chơi, sáng tạo",
+    "genre": "Puzzle",
+    "difficulty": "Hard",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Minecraft",
+    "content": "Game sinh tồn và sáng tạo thế giới khối vuông vô tận",
+    "genre": "Adventure",
+    "difficulty": "Easy",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Zelda: Tears of the Kingdom",
+    "content": "Game phiêu lưu thế giới mở hay nhất 2023, hệ thống crafting độc đáo",
+    "genre": "Adventure",
+    "difficulty": "Medium",
+    "platform": "Switch"
+  },
+  {
+    "title": "Zelda: Breath of the Wild",
+    "content": "Game phiêu lưu thế giới mở, khám phá tự do",
+    "genre": "Adventure",
+    "difficulty": "Medium",
+    "platform": "Switch"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "content": "Adventure thế giới mở miền Tây hoang dã, cốt truyện xuất sắc",
+    "genre": "Adventure",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "content": "Adventure thế giới mở, nhiều hoạt động, online mode",
+    "genre": "Adventure",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Spider-Man 2",
+    "content": "Adventure siêu anh hùng, web-swinging, đồ họa đẹp",
+    "genre": "Adventure",
+    "difficulty": "Easy",
+    "platform": "PS5"
+  },
+  {
+    "title": "Horizon Forbidden West",
+    "content": "Adventure thế giới mở, săn robot khổng lồ, đồ họa đẹp",
+    "genre": "Adventure",
+    "difficulty": "Medium",
+    "platform": "PS/PC"
+  },
+  {
+    "title": "Ghost of Tsushima",
+    "content": "Adventure samurai Nhật Bản, kiếm thuật, đồ họa đẹp",
+    "genre": "Adventure",
+    "difficulty": "Medium",
+    "platform": "PS/PC"
+  },
+  {
+    "title": "Assassin's Creed Valhalla",
+    "content": "Adventure Viking, stealth, chiến đấu, khám phá",
+    "genre": "Adventure",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "The Sims 4",
+    "content": "Game mô phỏng cuộc sống, xây nhà và tạo nhân vật",
+    "genre": "Simulation",
+    "difficulty": "Easy",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Microsoft Flight Simulator",
+    "content": "Sim bay chân thực nhất, bay khắp thế giới",
+    "genre": "Simulation",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Euro Truck Simulator 2",
+    "content": "Sim lái xe tải xuyên châu Âu, thư giãn",
+    "genre": "Simulation",
+    "difficulty": "Easy",
+    "platform": "PC"
+  },
+  {
+    "title": "Cities: Skylines II",
+    "content": "Xây dựng thành phố, quản lý chi tiết",
+    "genre": "Simulation",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Planet Zoo",
+    "content": "Xây dựng sở thú, quản lý động vật",
+    "genre": "Simulation",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Civilization VI",
+    "content": "Game chiến thuật xây dựng nền văn minh, 1 turn = 1 ngày",
+    "genre": "Strategy",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Age of Empires IV",
+    "content": "RTS chiến thuật thời gian thực, các nền văn minh lịch sử",
+    "genre": "Strategy",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Starcraft II",
+    "content": "RTS esports hay nhất mọi thời đại, 3 chủng tộc",
+    "genre": "Strategy",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Total War: Warhammer III",
+    "content": "Strategy turn-based + real-time battle, fantasy",
+    "genre": "Strategy",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "XCOM 2",
+    "content": "Chiến thuật theo lượt chống alien, ironman mode",
+    "genre": "Strategy",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "God of War Ragnarök",
+    "content": "Game hành động phiêu lưu, combat góc nhìn thứ ba hoành tráng",
+    "genre": "Action",
+    "difficulty": "Medium",
+    "platform": "PS/PC"
+  },
+  {
+    "title": "Devil May Cry 5",
+    "content": "Action hack and slash, combo stylish, boss đẹp",
+    "genre": "Action",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "content": "Action độ khó cao, shinobi Nhật Bản, deflect combat",
+    "genre": "Action",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Resident Evil 4 Remake",
+    "content": "Game kinh dị sinh tồn, bắn súng chống lại zombie",
+    "genre": "Horror",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Phasmophobia",
+    "content": "Game kinh dị săn ma multiplayer, đòi hỏi phối hợp đội nhóm",
+    "genre": "Horror",
+    "difficulty": "Medium",
+    "platform": "PC"
+  },
+  {
+    "title": "Dead by Daylight",
+    "content": "Asymmetrical horror 4v1, survivor vs killer",
+    "genre": "Horror",
+    "difficulty": "Medium",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Amnesia: The Bunker",
+    "content": "Horror sinh tồn WWI, tài nguyên hạn chế",
+    "genre": "Horror",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Among Us",
+    "content": "Multiplayer party game, imposter vs crewmates",
+    "genre": "Party",
+    "difficulty": "Easy",
+    "platform": "PC/Mobile/Console"
+  },
+  {
+    "title": "Fall Guys",
+    "content": "Battle royale party game, minigames hài hước",
+    "genre": "Party",
+    "difficulty": "Easy",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Jackbox Party Packs",
+    "content": "Party games dùng điện thoại làm controller",
+    "genre": "Party",
+    "difficulty": "Easy",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "It Takes Two",
+    "content": "Co-op adventure 2 người, game of the year 2021",
+    "genre": "Co-op",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Unravel Two",
+    "content": "Platformer co-op 2D, puzzle, đẹp mắt",
+    "genre": "Co-op",
+    "difficulty": "Easy",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "A Way Out",
+    "content": "Co-op only prison break adventure",
+    "genre": "Co-op",
+    "difficulty": "Medium",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Cuphead",
+    "content": "Run and gun boss rush, đồ họa 1930s cartoon",
+    "genre": "Indie",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Hades",
+    "content": "Roguelike action, combat mượt, cốt truyện hay",
+    "genre": "Indie",
+    "difficulty": "Hard",
+    "platform": "PC/Console/Switch"
+  },
+  {
+    "title": "Celeste",
+    "content": "Platformer 2D độ khó cao, cốt truyện cảm động",
+    "genre": "Indie",
+    "difficulty": "Hard",
+    "platform": "PC/Console"
+  },
+  {
+    "title": "Terraria",
+    "content": "Sandbox 2D, khai thác, xây dựng, boss fight",
+    "genre": "Indie",
+    "difficulty": "Medium",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Factorio",
+    "content": "Xây dựng nhà máy tự động, logistics phức tạp",
+    "genre": "Indie",
+    "difficulty": "Hard",
+    "platform": "PC"
+  },
+  {
+    "title": "Slay the Spire",
+    "content": "Roguelike deckbuilder, xây dựng bài chiến thuật",
+    "genre": "Indie",
+    "difficulty": "Hard",
+    "platform": "PC/Console/Mobile"
+  },
+  {
+    "title": "Vampire Survivors",
+    "content": "Roguelike bullet heaven, auto-attack, addicting",
+    "genre": "Indie",
+    "difficulty": "Easy",
+    "platform": "PC/Console/Mobile"
+  }
+]
