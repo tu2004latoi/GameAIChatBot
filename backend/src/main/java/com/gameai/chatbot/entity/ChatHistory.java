@@ -18,6 +18,10 @@ public class ChatHistory {
     @JoinColumn(name = "user_id")
     private User user;
 
+    @ManyToOne
+    @JoinColumn(name = "chat_group_id")
+    private ChatGroup chatGroup;
+
     @Column(columnDefinition = "TEXT")
     private String question;
 

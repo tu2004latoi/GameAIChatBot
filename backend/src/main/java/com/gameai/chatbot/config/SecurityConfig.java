@@ -31,7 +31,11 @@ public class SecurityConfig {
                                "/api/auth/register"
                         ).permitAll()
                         .requestMatchers(
-                               "/api/chat"
+                               "/api/chats",
+                               "/api/chat-groups",
+                               "/api/chats/{id}",
+                               "/api/chat-groups/{id}",
+                               "/api/chats/group/{groupId}"
                         ).hasAnyRole("USER", "ADMIN")
                         .requestMatchers(
                                 "/"

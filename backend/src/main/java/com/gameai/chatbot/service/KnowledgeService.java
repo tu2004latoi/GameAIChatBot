@@ -6,6 +6,7 @@ import java.util.Set;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.gameai.chatbot.repository.KnowledgeRepository;
 
@@ -31,6 +32,7 @@ public class KnowledgeService {
         Map.entry("giả tưởng", Set.of("fantasy"))
     );
 
+    @Transactional(readOnly = true)
     public List<String> search(String question) {
 
         String q = question.toLowerCase();
