@@ -6,6 +6,7 @@ import com.gameai.chatbot.repository.KnowledgeRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.io.InputStream;
 import java.util.Arrays;
@@ -18,6 +19,7 @@ public class DataLoader {
     private KnowledgeRepository repo;
 
     @jakarta.annotation.PostConstruct
+    @Transactional
     public void loadData() throws Exception {
         // TEMP: Clear and reload all data
         repo.deleteAll();
