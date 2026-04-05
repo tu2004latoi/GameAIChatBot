@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import type { ChatGroup } from '../types/chat-group';
-import type { User } from '../types/user';
 
 interface ChatSidebarProps {
   groups: ChatGroup[];
