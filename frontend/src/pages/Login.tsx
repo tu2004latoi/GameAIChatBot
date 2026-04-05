@@ -1,6 +1,6 @@
 import { useState, useContext } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
-import { MyDispatcherContext } from '../services/mycontexts';
+import { MyDispatcherContext } from '../services/MyContexts.ts';
 import { authApis, endPoints } from '../services/apis';
 import Cookies from 'js-cookie';
 import { useToast } from '../components/Toast';
@@ -22,14 +22,16 @@ const GamingLogin = () => {
         email,
         password,
       });
+      const token = res.data.token;
 
-      Cookies.set('token', res.data.token);
+      Cookies.set('token', token);
       dispatch({
-        type: 'login',
+        type: "login",
         payload: res.data.user,
       });
       showToast('Đăng nhập thành công! Chào mừng trở lại 🎮', 'success');
-      navigate('/');
+      // Force reload to ensure App.tsx loads user from token fresh
+      window.location.href = '/';
     } catch (err: any) {
       showToast(err.response?.data?.message || 'Đăng nhập thất bại', 'error');
     } finally {

@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { MyUserContext, MyDispatcherContext } from '../services/mycontexts';
+import { MyUserContext, MyDispatcherContext } from '../services/MyContexts.ts';
 import { useToast } from '../components/Toast';
 import apis, { authApis, endPoints } from '../services/apis';
 import ChatSidebar from '../components/ChatSidebar';
@@ -23,12 +23,18 @@ const ChatPage = () => {
   const [loading, setLoading] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [creatingGroup, setCreatingGroup] = useState(false);
+  const [authChecked, setAuthChecked] = useState(false);
 
-  // Redirect to login if not authenticated
+  // Redirect to login if not authenticated (wait for auth check)
   useEffect(() => {
-    if (!user) {
-      navigate('/login');
-    }
+    // Small delay to let App.tsx finish loading user from token
+    const timer = setTimeout(() => {
+      setAuthChecked(true);
+      if (!user) {
+        navigate('/login');
+      }
+    }, 100);
+    return () => clearTimeout(timer);
   }, [user, navigate]);
 
   // Fetch groups on mount
@@ -145,6 +151,9 @@ const ChatPage = () => {
     showToast('👋 Đã đăng xuất thành công!', 'success');
     navigate('/login');
   };
+
+  // Don't render anything while checking auth to prevent flash/redirect
+  if (!authChecked) return null;
 
   if (!user) return null;
 

@@ -6,8 +6,10 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import GamingLogin from './pages/Login';
 import GamingRegister from './pages/Register';
 import ChatPage from './pages/ChatPage';
+import AdminDashboard from './pages/AdminDashboard';
+import AdminGuard from './components/AdminGuard';
 import { authApis, endPoints } from './services/apis';
-import { MyDispatcherContext, MyUserContext } from './services/mycontexts';
+import { MyDispatcherContext, MyUserContext } from './services/MyContexts.ts';
 import { ToastProvider } from './components/Toast';
 
 function App() {
@@ -76,6 +78,14 @@ function App() {
               <Route path="/register" element={<GamingRegister />} />
               <Route path="/" element={<ChatPage />} />
               <Route path="/chat" element={<ChatPage />} />
+              <Route 
+                path="/admin/dashboard" 
+                element={
+                  <AdminGuard>
+                    <AdminDashboard />
+                  </AdminGuard>
+                } 
+              />
             </Routes>
           </BrowserRouter>
         </ToastProvider>
